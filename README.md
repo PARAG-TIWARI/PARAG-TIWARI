@@ -42,48 +42,205 @@ I'm exploring opportunities across **software engineering, backend and full-stac
 
 Aspire Institute began as a program founded at Harvard and became an independent nonprofit in 2021. [About Aspire Institute](https://www.aspireleaders.org/about/)
 
-## Featured Project
+# Selected Projects
+
+<table>
+<tr>
+<td colspan="2" valign="top">
 
 ### RecycleX — Recycling Marketplace
 
-RecycleX is a product I'm building to make recycling workflows easier to coordinate. It is designed to connect households, collectors, recyclers and enterprise users through material listings, pickup coordination and marketplace workflows.
+**Aspire Institute Seed Fund Awardee · $500 project grant (2026)**
 
-The project received a **$500 Aspire Institute Seed Fund award in 2026**. I am developing it as a connected platform, with separate workspaces and workflows for different user roles.
+RecycleX is a recycling marketplace I'm building to connect households, waste collectors, recycling businesses and enterprise users. The platform brings together material listings, pickup coordination and marketplace workflows in one product.
 
-**Website:** [recirclex.com](https://recirclex.com)  
-**Repository:** [PARAG-TIWARI/recircleX](https://github.com/PARAG-TIWARI/recircleX)
+- Building role-based workflows for different participants in the recycling value chain.
+- Working across product requirements, frontend, backend APIs and platform integration.
+- Developing the product iteratively with feedback from potential ecosystem partners.
 
-**Technology:** Next.js, React, TypeScript, Tailwind CSS, FastAPI, MongoDB Atlas, Clerk, and supporting integrations.
+**Technology:** Next.js · React · TypeScript · Tailwind CSS · FastAPI · MongoDB Atlas · Clerk
 
-*RecycleX is an actively developed product; features and workflows may continue to evolve.*
+<a href="https://recirclex.com">
+  <img src="https://img.shields.io/badge/Live%20Website-Visit%20RecycleX-15803D?style=flat-square&logo=googlechrome&logoColor=white" alt="RecycleX live website"/>
+</a>
+<a href="https://github.com/PARAG-TIWARI/recircleX">
+  <img src="https://img.shields.io/badge/GitHub-Repository-24292F?style=flat-square&logo=github&logoColor=white" alt="RecycleX repository"/>
+</a>
 
-## Other Projects
+<sub>RecycleX is actively developed; feature availability may change as the product evolves.</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### ModelFlow MLOps
-An end-to-end customer churn modelling and serving workflow. It combines data preparation, model evaluation, MLflow, DVC, FastAPI, a React dashboard, Docker and GitHub Actions.
 
-[Source code](https://github.com/PARAG-TIWARI/model-flow-mlops) · [Frontend](https://model-flow-mlops.vercel.app/) · [API docs](https://model-flow-mlops.onrender.com/docs)
+**End-to-end customer churn modelling and serving workflow**
+
+- Compares Logistic Regression, Random Forest and HistGradientBoosting.
+- Uses data validation, preprocessing, stratified splits and model evaluation.
+- Integrates MLflow, DVC, FastAPI and a React dashboard.
+- Includes Docker packaging, automated tests and GitHub Actions CI/CD.
+
+**Technology:** Python · Scikit-learn · MLflow · DVC · FastAPI · React · Docker
+
+<a href="https://github.com/PARAG-TIWARI/model-flow-mlops">
+  <img src="https://img.shields.io/badge/GitHub-Repository-24292F?style=flat-square&logo=github&logoColor=white" alt="ModelFlow repository"/>
+</a>
+<a href="https://model-flow-mlops.vercel.app/">
+  <img src="https://img.shields.io/badge/Frontend-Live%20Link-2563EB?style=flat-square&logo=vercel&logoColor=white" alt="ModelFlow frontend"/>
+</a>
+<a href="https://model-flow-mlops.onrender.com/docs">
+  <img src="https://img.shields.io/badge/API-Documentation-15803D?style=flat-square&logo=fastapi&logoColor=white" alt="ModelFlow API documentation"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
 
 ### RoadSight AI
-A computer-vision project for road-defect segmentation using YOLOv8, with an ONNX Runtime inference path, FastAPI, OpenCV and a React dashboard.
 
-[Source code](https://github.com/PARAG-TIWARI/RoadSight-AI)
+**Computer vision for road-defect detection and segmentation**
+
+- Uses YOLOv8 segmentation for road-defect imagery.
+- Includes an ONNX Runtime inference path and optional PyTorch/Ultralytics flow.
+- FastAPI image/video processing with OpenCV.
+- React dashboard, Docker Compose and automated checks.
+
+**Technology:** Python · YOLOv8 · ONNX Runtime · OpenCV · FastAPI · React · Docker
+
+<a href="https://github.com/PARAG-TIWARI/RoadSight-AI">
+  <img src="https://img.shields.io/badge/GitHub-Repository-24292F?style=flat-square&logo=github&logoColor=white" alt="RoadSight AI repository"/>
+</a>
+
+<sub>Repository includes local setup instructions; no hosted demo is listed.</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### Olympic Data Analysis
-An interactive Streamlit application for exploring Olympic history, including medal trends, athlete data and country-level analysis. Built with Pandas, NumPy, Plotly, Matplotlib and Seaborn.
 
-[Source code](https://github.com/PARAG-TIWARI/olympic-data-analysis-web-app) · [Open application](https://olympic-data-analysis-web-app-am3jfyvy4gxsad7yi4xbug.streamlit.app/)
+**Interactive analytics across Olympic history**
 
-### Machine Learning & AI Projects
-- **Chronic Kidney Disease Prediction** — classification experiments comparing eight models, including Logistic Regression, SVC, Random Forest, KNN, Decision Tree, Gaussian Naive Bayes, AdaBoost and Gradient Boosting. [Repository](https://github.com/PARAG-TIWARI/Chronic-kindney-predictor-)
-- **Music Genre Classification** — CNN-based classification of spectrogram images into ten genres using TensorFlow and Keras. [Repository](https://github.com/PARAG-TIWARI/MUSIC-GENRE-CLASSIFIER)
-- **Email / SMS Spam Predictor** — message preprocessing with NLTK and a saved vectorizer/model in a Streamlit app. [Repository](https://github.com/PARAG-TIWARI/Email_Span_Predictor)
-- **CourseHub AI** — an AI-assisted course-generation application built with Next.js and Gemini integrations. [Repository](https://github.com/PARAG-TIWARI/ai-powered-course-generator)
+- Explores medal trends, athlete demographics, country performance and participation.
+- Uses Pandas and NumPy for data preparation.
+- Uses Plotly, Seaborn and Matplotlib for visual analysis.
+- Delivered as an interactive Streamlit application.
+
+**Technology:** Python · Pandas · NumPy · Plotly · Matplotlib · Seaborn · Streamlit
+
+<a href="https://github.com/PARAG-TIWARI/olympic-data-analysis-web-app">
+  <img src="https://img.shields.io/badge/GitHub-Repository-24292F?style=flat-square&logo=github&logoColor=white" alt="Olympic Data Analysis repository"/>
+</a>
+<a href="https://olympic-data-analysis-web-app-am3jfyvy4gxsad7yi4xbug.streamlit.app/">
+  <img src="https://img.shields.io/badge/Streamlit-Live%20App-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Olympic Data Analysis live app"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### Chronic Kidney Disease Prediction
+
+**Supervised learning classification project**
+
+- Compares eight classifiers, including Logistic Regression, SVC, Random Forest, KNN, Decision Tree, Gaussian Naive Bayes, AdaBoost and Gradient Boosting.
+- Includes label encoding, scaling and SMOTE-based class balancing.
+- Saves a Gradient Boosting model for inference through a Flask application.
+
+**Technology:** Python · Pandas · NumPy · Scikit-learn · Imbalanced-learn · Flask
+
+<a href="https://github.com/PARAG-TIWARI/Chronic-kindney-predictor-">
+  <img src="https://img.shields.io/badge/GitHub-Repository-24292F?style=flat-square&logo=github&logoColor=white" alt="CKD prediction repository"/>
+</a>
+
+<sub>Educational machine-learning project; not a diagnostic tool.</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Music Genre Classification
+
+**CNN-based spectrogram image classification**
+
+- Builds a Convolutional Neural Network with TensorFlow and Keras.
+- Uses image preprocessing, pooling, dropout and early stopping.
+- Classifies uploaded spectrogram images into ten music genres through Streamlit.
+
+**Technology:** Python · TensorFlow · Keras · NumPy · Pillow · Streamlit
+
+<a href="https://github.com/PARAG-TIWARI/MUSIC-GENRE-CLASSIFIER">
+  <img src="https://img.shields.io/badge/GitHub-Repository-24292F?style=flat-square&logo=github&logoColor=white" alt="Music Genre Classifier repository"/>
+</a>
+
+<sub>The current app accepts spectrogram images; separate SVM scripts remain experimental.</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### Email / SMS Spam Predictor
+
+**NLP-based message classification**
+
+- Cleans and normalises message text.
+- Uses NLTK tokenisation, stopword removal and Porter stemming.
+- Applies a saved vectorizer and trained classifier.
+- Provides an interactive Streamlit prediction interface.
+
+**Technology:** Python · NLTK · Streamlit · Pickle
+
+<a href="https://github.com/PARAG-TIWARI/Email_Span_Predictor">
+  <img src="https://img.shields.io/badge/GitHub-Repository-24292F?style=flat-square&logo=github&logoColor=white" alt="Email SMS Spam Predictor repository"/>
+</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### Data Science Workspace
-A collection of notebooks and exercises covering NumPy, Pandas, data cleaning, exploratory analysis and visualisation. It includes Diwali Sales analysis, Seoul Bike analysis and a Linear Regression exercise.
 
-[Data Science repository](https://github.com/PARAG-TIWARI/Data-Science)
+**Hands-on data analysis, visualisation and modelling notebooks**
+
+- NumPy and Pandas for numerical computing and data manipulation.
+- Matplotlib and Seaborn for exploratory visualisation.
+- Diwali Sales, Seoul Bike and human purchase behaviour analysis.
+- Linear Regression practice with train-test split and regression metrics.
+- Notebooks covering missing values, grouping, merging, interpolation and transformations.
+
+**Technology:** Python · NumPy · Pandas · Matplotlib · Seaborn · Scikit-learn · Jupyter
+
+<a href="https://github.com/PARAG-TIWARI/Data-Science">
+  <img src="https://img.shields.io/badge/GitHub-Repository-24292F?style=flat-square&logo=github&logoColor=white" alt="Data Science repository"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### CourseHub AI
+
+**AI-assisted course-generation application**
+
+- Next.js application with course creation and learning workflows.
+- Includes Gemini and YouTube integrations.
+- Project documentation covers architecture and client/server boundaries.
+
+**Technology:** Next.js · React · TypeScript · Gemini
+
+<a href="https://github.com/PARAG-TIWARI/ai-powered-course-generator">
+  <img src="https://img.shields.io/badge/GitHub-Repository-24292F?style=flat-square&logo=github&logoColor=white" alt="CourseHub AI repository"/>
+</a>
+
+<sub>Development project; server-side security remediation remains separate work.</sub>
+
+</td>
+</tr>
+</table>
+
+---
 
 # Technical Expertise
 
