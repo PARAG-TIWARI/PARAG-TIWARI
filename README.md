@@ -32,17 +32,13 @@ I'm particularly interested in **client-facing technical opportunities** such as
 
 I also like staying hands-on: building software, working with APIs, exploring data and machine learning, and developing AI-enabled applications. I'm open to opportunities where technical problem-solving and working closely with people come together.
 
-## Education & Recognition
+## Education & Leadership
 
 - **B.Tech, Computer Science and Engineering** — RGPV, Bhopal (2023–2027)
-- **Aspire Institute Seed Fund Awardee (2026)** — selected for a **$500 seed grant** to develop RecycleX, a recycling marketplace focused on connecting households, waste collectors and recycling businesses.
 - **Aspire Leaders Program** — Aspire Institute.
 
-Aspire Institute began as a program founded at Harvard and became an independent nonprofit in 2021.
-
 <a href="https://www.aspireleaders.org/about/">
-  <img src="https://img.shields.io/badge/Aspire%20Institute-Programme%20%26%20About-2563EB?style=flat-square" alt="Aspire Institute programme and about page"/>
-  <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/box-arrow-up-right.svg" width="13" height="13" alt="External link"/>
+  <img src="https://img.shields.io/badge/Aspire%20Institute%20↗-Leadership%20Programme-2563EB?style=flat-square" alt="Aspire Institute — open website"/>
 </a>
 
 # Selected Projects
