@@ -1,367 +1,118 @@
-<div align="center">
-
 # Parag Tiwari
 
-### Aspiring Solutions Engineer | Technical Consultant | Applied AI/ML & Software Development
+**Computer Science & Engineering | Software Development | Data & AI**
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=2563EB&center=true&vCenter=true&width=1000&lines=Connecting+Business+Needs+with+Technology;Turning+Requirements+into+Practical+Solutions;Building+AI%2C+ML+and+Data-Driven+Applications;Communicating+Technical+Ideas+with+Clarity" alt="Profile focus animation"/>
-
-<br>
-
-<a href="https://3d-portfolio-eight-wine.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-1F2937?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
-&nbsp;
-<a href="https://github.com/PARAG-TIWARI" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-PARAG--TIWARI-1F2937?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-&nbsp;
-<a href="mailto:paragt2005@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-1F2937?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-</div>
+[Portfolio](https://3d-portfolio-eight-wine.vercel.app/) · [GitHub](https://github.com/PARAG-TIWARI) · [Email](mailto:paragt2005@gmail.com)
 
 ---
-
-<img align="right" src="https://komarev.com/ghpvc/?username=PARAG-TIWARI&label=Profile%20Views&color=2563EB&style=flat-square" alt="Profile views"/>
 
 ## About
 
-I'm a Computer Science & Engineering student at **Rajiv Gandhi Proudyogiki Vishwavidyalaya (RGPV), Bhopal**, interested in the space where technology, business problems, and people meet.
+I'm a Computer Science and Engineering student at **Rajiv Gandhi Proudyogiki Vishwavidyalaya (RGPV), Bhopal**, graduating in 2027.
 
-I enjoy understanding how a user or organisation works, identifying the problem behind a request, and translating that context into a practical technical approach. My project work spans **data analytics, classical machine learning, deep learning, AI-enabled applications, backend APIs, and full-stack development**.
+I like building things that solve practical problems. My work so far has included full-stack applications, backend APIs, data analysis, machine learning experiments and AI-enabled tools. I enjoy understanding the user problem, working out what a useful solution should look like, and then getting involved in the technical implementation.
 
-I'm particularly interested in **client-facing technical opportunities** where I can combine problem discovery, solution design, product demonstrations, technical communication, and implementation.
+I'm exploring opportunities across **software engineering, backend and full-stack development, data/AI, solutions engineering and technical consulting**. I'm especially interested in roles that combine technical problem-solving with communication and collaboration.
 
-**Roles I'm working towards:** Solutions Engineer · Associate Solutions Consultant · Technical Consultant · Customer Engineer · Implementation Engineer
+## Education & Recognition
 
-## How I Approach Solutions
+- **B.Tech, Computer Science and Engineering** — RGPV, Bhopal (2023–2027)
+- **Aspire Institute Seed Fund Awardee (2026)** — selected for a **$500 seed grant** to develop RecycleX, a recycling marketplace focused on connecting households, waste collectors and recycling businesses.
+- **Aspire Leaders Program** — Aspire Institute.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+Aspire Institute began as a program founded at Harvard and became an independent nonprofit in 2021. [About Aspire Institute](https://www.aspireleaders.org/about/)
 
-### Understand the problem
+## Featured Project
 
-- Learn the user's workflow and desired outcome
-- Clarify requirements, constraints, and priorities
-- Separate the actual need from the initial feature request
+### RecycleX — Recycling Marketplace
 
-</td>
-<td width="50%" valign="top">
+RecycleX is a product I'm building to make recycling workflows easier to coordinate. It is designed to connect households, collectors, recyclers and enterprise users through material listings, pickup coordination and marketplace workflows.
 
-### Shape the solution
+The project received a **$500 Aspire Institute Seed Fund award in 2026**. I am developing it as a connected platform, with separate workspaces and workflows for different user roles.
 
-- Translate requirements into technical options
-- Explain architecture, integrations, and trade-offs
-- Choose practical approaches instead of unnecessary complexity
+**Website:** [recirclex.com](https://recirclex.com)  
+**Repository:** [PARAG-TIWARI/recircleX](https://github.com/PARAG-TIWARI/recircleX)
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+**Technology:** Next.js, React, TypeScript, Tailwind CSS, FastAPI, MongoDB Atlas, Clerk, and supporting integrations.
 
-### Demonstrate and communicate
+*RecycleX is an actively developed product; features and workflows may continue to evolve.*
 
-- Build prototypes and working demonstrations
-- Explain technical concepts in accessible language
-- Document capabilities, assumptions, and limitations
-
-</td>
-<td width="50%" valign="top">
-
-### Support delivery
-
-- Work across frontend, backend, data, and AI components
-- Validate behaviour with tests and reproducible steps
-- Improve setup, handover, and implementation clarity
-
-</td>
-</tr>
-</table>
-
----
-
-# Technical Expertise
-
-My toolkit spans data analysis, machine learning, AI application development, backend engineering, and deployment. I list the actual libraries separately from the algorithms and methods I have worked with.
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,react,nextjs,fastapi,flask,docker,mongodb,git,github" alt="Programming languages, development frameworks, databases and tools"/>
-</div>
-
-### Programming Languages
-
-**Python · C++ · JavaScript · TypeScript · SQL**
-
-### Data Science, Analytics & Visualisation
-
-**Libraries and tools:**  
-NumPy · Pandas · Matplotlib · Seaborn · Plotly · Plotly Express · Jupyter Notebook
-
-**Areas and operations:**  
-Exploratory Data Analysis (EDA) · Data cleaning · DataFrame operations · Missing-value handling · Filtering · Sorting · Grouping and aggregation · Merging and concatenation · Interpolation · Summary statistics · Statistical and interactive visualisation
-
-### Machine Learning
-
-**Libraries and tools:**  
-Scikit-learn · Imbalanced-learn (imblearn) · Python pickle for model serialisation
-
-**Algorithms and models:**
-
-| Area | Algorithms / models |
-|---|---|
-| Regression | Linear Regression, Logistic Regression |
-| Tree-based models | Decision Tree, Random Forest |
-| Ensemble and boosting | AdaBoost, Gradient Boosting, HistGradientBoosting |
-| Other classification models | Support Vector Classifier (SVC / SVM), K-Nearest Neighbors (KNN), Gaussian Naive Bayes |
-
-**ML workflow and evaluation:**  
-Train-test split · Classification and regression workflows · Label encoding · Standardisation (StandardScaler) · Normalisation (MinMaxScaler) · Imbalanced-data handling with SMOTE · Accuracy · Precision · Recall · F1-score · Confusion matrix · R² · Mean Absolute Error (MAE) · Mean Squared Error (MSE)
-
-### Deep Learning & Computer Vision
-
-**Libraries and frameworks:**  
-TensorFlow · Keras · OpenCV · Pillow (PIL) · Ultralytics · ONNX Runtime
-
-**Areas:**  
-Convolutional Neural Networks (CNNs) · Image preprocessing · Spectrogram-image classification · YOLOv8 segmentation · Model inference and deployment workflows
-
-### Natural Language Processing & Generative AI
-
-**Libraries, frameworks and platforms:**  
-NLTK · LangChain · LangGraph · Google Gemini · OpenRouter
-
-**NLP concepts and workflows:**  
-Text preprocessing · Tokenisation · Stopword removal · Porter stemming · Text vectorisation · LLM-powered application workflows
-
-### Backend, Frontend & Application Development
-
-**Backend and app frameworks:**  
-FastAPI · Flask · Streamlit
-
-**Frontend frameworks and tools:**  
-React · Next.js · Vite · Tailwind CSS
-
-**Application development:**  
-REST API design · Frontend/backend integration · Interactive dashboards · AI-enabled application workflows
-
-### MLOps, Testing & Developer Tools
-
-**Tools and platforms:**  
-Docker · MLflow · DVC · Git · GitHub · GitHub Actions · Pytest
-
-**Practices:**  
-Model and experiment tracking · Data/model versioning · Containerisation · CI/CD workflows · Automated testing · Reproducible development
-
-### Databases
-
-SQL · MongoDB Atlas · SQLite
-
----
-
-# Selected Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
+## Other Projects
 
 ### ModelFlow MLOps
+An end-to-end customer churn modelling and serving workflow. It combines data preparation, model evaluation, MLflow, DVC, FastAPI, a React dashboard, Docker and GitHub Actions.
 
-**End-to-end customer churn modelling and serving workflow**
-
-- Compares Logistic Regression, Random Forest, and HistGradientBoosting.
-- Uses data validation, preprocessing, stratified splits, and model evaluation.
-- Integrates MLflow, DVC stages, a FastAPI inference service, and a React dashboard.
-- Includes Docker packaging, automated tests, and GitHub Actions CI/CD.
-
-<a href="https://github.com/PARAG-TIWARI/model-flow-mlops">
-  <img src="https://img.shields.io/badge/Repository-View%20Code-1F2937?style=flat-square&logo=github"/>
-</a>
-<a href="https://model-flow-mlops.vercel.app">
-  <img src="https://img.shields.io/badge/Frontend-Live%20Link-2563EB?style=flat-square&logo=vercel&logoColor=white"/>
-</a>
-<a href="https://model-flow-mlops.onrender.com/docs">
-  <img src="https://img.shields.io/badge/API-Swagger-16A34A?style=flat-square"/>
-</a>
-
-</td>
-<td width="50%" valign="top">
+[Source code](https://github.com/PARAG-TIWARI/model-flow-mlops) · [Frontend](https://model-flow-mlops.vercel.app/) · [API docs](https://model-flow-mlops.onrender.com/docs)
 
 ### RoadSight AI
+A computer-vision project for road-defect segmentation using YOLOv8, with an ONNX Runtime inference path, FastAPI, OpenCV and a React dashboard.
 
-**Computer vision for road-defect detection and segmentation**
-
-- YOLOv8 segmentation model for pothole-like road defects.
-- ONNX Runtime inference with an optional PyTorch/Ultralytics path.
-- FastAPI image/video processing with OpenCV.
-- React dashboard, Docker Compose, and automated checks.
-
-<a href="https://github.com/PARAG-TIWARI/RoadSight-AI">
-  <img src="https://img.shields.io/badge/Repository-View%20Code-1F2937?style=flat-square&logo=github"/>
-</a>
-
-<sub>Repository documents local setup; no hosted demo is currently listed.</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+[Source code](https://github.com/PARAG-TIWARI/RoadSight-AI)
 
 ### Olympic Data Analysis
+An interactive Streamlit application for exploring Olympic history, including medal trends, athlete data and country-level analysis. Built with Pandas, NumPy, Plotly, Matplotlib and Seaborn.
 
-**Interactive analytics across 120+ years of Olympic history**
+[Source code](https://github.com/PARAG-TIWARI/olympic-data-analysis-web-app) · [Open application](https://olympic-data-analysis-web-app-am3jfyvy4gxsad7yi4xbug.streamlit.app/)
 
-- Explores medal trends, athlete demographics, country performance, and participation.
-- Uses Pandas and NumPy for data preparation.
-- Uses Plotly, Seaborn, and Matplotlib for visual analysis.
-- Delivered as an interactive Streamlit application.
-
-<a href="https://github.com/PARAG-TIWARI/olympic-data-analysis-web-app">
-  <img src="https://img.shields.io/badge/Repository-View%20Code-1F2937?style=flat-square&logo=github"/>
-</a>
-<a href="https://olympic-data-analysis-web-app-am3jfyvy4gxsad7yi4xbug.streamlit.app/">
-  <img src="https://img.shields.io/badge/Streamlit-Open%20App-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-### Chronic Kidney Disease Prediction
-
-**Supervised learning classification project**
-
-- Preprocessing includes missing-value handling, label encoding, scaling, and SMOTE.
-- Compares eight classifiers: Logistic Regression, SVC, Random Forest, KNN, Decision Tree, Gaussian Naive Bayes, AdaBoost, and Gradient Boosting.
-- Saves a Gradient Boosting model for inference through a Flask application.
-
-<a href="https://github.com/PARAG-TIWARI/Chronic-kindney-predictor-">
-  <img src="https://img.shields.io/badge/Repository-View%20Code-1F2937?style=flat-square&logo=github"/>
-</a>
-
-<sub>Educational healthcare-ML project only; not a diagnostic tool.</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### Music Genre Classification
-
-**CNN-based spectrogram image classification**
-
-- Builds a Convolutional Neural Network with TensorFlow/Keras.
-- Uses image preprocessing, pooling, dropout, and early stopping.
-- Predicts one of ten music genres from a spectrogram image through Streamlit.
-
-<a href="https://github.com/PARAG-TIWARI/MUSIC-GENRE-CLASSIFIER">
-  <img src="https://img.shields.io/badge/Repository-View%20Code-1F2937?style=flat-square&logo=github"/>
-</a>
-
-<sub>The current app accepts spectrogram images. The separate SVM scripts remain experimental.</sub>
-
-</td>
-<td width="50%" valign="top">
-
-### Email / SMS Spam Predictor
-
-**NLP-based message classification**
-
-- Cleans and normalises message text.
-- Uses NLTK tokenisation, stopword removal, and Porter stemming.
-- Applies a saved vectorizer and trained classifier.
-- Provides an interactive Streamlit prediction interface.
-
-<a href="https://github.com/PARAG-TIWARI/Email_Span_Predictor">
-  <img src="https://img.shields.io/badge/Repository-View%20Code-1F2937?style=flat-square&logo=github"/>
-</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+### Machine Learning & AI Projects
+- **Chronic Kidney Disease Prediction** — classification experiments comparing eight models, including Logistic Regression, SVC, Random Forest, KNN, Decision Tree, Gaussian Naive Bayes, AdaBoost and Gradient Boosting. [Repository](https://github.com/PARAG-TIWARI/Chronic-kindney-predictor-)
+- **Music Genre Classification** — CNN-based classification of spectrogram images into ten genres using TensorFlow and Keras. [Repository](https://github.com/PARAG-TIWARI/MUSIC-GENRE-CLASSIFIER)
+- **Email / SMS Spam Predictor** — message preprocessing with NLTK and a saved vectorizer/model in a Streamlit app. [Repository](https://github.com/PARAG-TIWARI/Email_Span_Predictor)
+- **CourseHub AI** — an AI-assisted course-generation application built with Next.js and Gemini integrations. [Repository](https://github.com/PARAG-TIWARI/ai-powered-course-generator)
 
 ### Data Science Workspace
+A collection of notebooks and exercises covering NumPy, Pandas, data cleaning, exploratory analysis and visualisation. It includes Diwali Sales analysis, Seoul Bike analysis and a Linear Regression exercise.
 
-**Hands-on data analysis, visualisation, and modelling notebooks**
+[Data Science repository](https://github.com/PARAG-TIWARI/Data-Science)
 
-- Pandas and NumPy for data manipulation and numerical analysis.
-- Matplotlib and Seaborn for charts and exploratory visualisation.
-- Diwali Sales and Seoul Bike data analysis.
-- Linear Regression exploration for bike-rental prediction.
-- Jupyter notebooks covering data cleaning, grouping, merging, missing values, and transformations.
+## Skills & Tools
 
-<a href="https://github.com/PARAG-TIWARI/Data-Science">
-  <img src="https://img.shields.io/badge/Repository-View%20Code-1F2937?style=flat-square&logo=github"/>
-</a>
+I keep this list to tools, methods and models I have used in coursework, notebooks or projects.
 
-</td>
-<td width="50%" valign="top">
+**Languages**
+- Python, C++, JavaScript, TypeScript, SQL
 
-### CourseHub AI
+**Data analysis and visualisation**
+- NumPy, Pandas, Matplotlib, Seaborn, Plotly, Plotly Express, Jupyter Notebook
+- Data cleaning, missing-value handling, filtering, sorting, grouping, aggregation, merging, concatenation and exploratory data analysis
 
-**AI-assisted course-generation application**
+**Machine learning**
+- Scikit-learn, Imbalanced-learn
+- Linear Regression, Logistic Regression, Decision Tree, Random Forest, AdaBoost, Gradient Boosting, HistGradientBoosting, SVC/SVM, K-Nearest Neighbors and Gaussian Naive Bayes
+- Train-test split, Label Encoding, StandardScaler, MinMaxScaler and SMOTE
+- Model evaluation: accuracy, precision, recall, F1-score, confusion matrix, R², MAE and MSE
 
-- Next.js application with course creation and learning workflows.
-- Gemini and YouTube integrations.
-- Architecture and security documentation for server/client boundaries.
+**Deep learning and computer vision**
+- TensorFlow, Keras, CNNs, Ultralytics YOLOv8, OpenCV, Pillow and ONNX Runtime
 
-<a href="https://github.com/PARAG-TIWARI/ai-powered-course-generator">
-  <img src="https://img.shields.io/badge/Repository-View%20Code-1F2937?style=flat-square&logo=github"/>
-</a>
+**NLP and Generative AI**
+- NLTK, LangChain, LangGraph, Google Gemini and OpenRouter
+- Tokenisation, stopword removal, stemming and text preprocessing
 
-<sub>Development project; server-side security remediation remains separate work.</sub>
+**Web and application development**
+- FastAPI, Flask, Streamlit, React, Next.js, Vite and Tailwind CSS
+- REST APIs and frontend/backend integration
 
-</td>
-</tr>
-</table>
+**MLOps and developer tools**
+- Docker, MLflow, DVC, Git, GitHub Actions and Pytest
 
-## Product & Solution Thinking
+**Databases**
+- MongoDB Atlas, SQLite and SQL
 
-I am interested in more than implementing isolated features. I enjoy looking at the complete workflow—who needs the solution, what outcome they expect, how the system should behave, and how to explain the approach clearly.
+## What I'm Interested In
 
-My focus for client-facing technical roles is to combine:
+I'm open to roles where I can keep building technically while learning how technology is applied in real organisations. Areas I'm exploring include:
 
-- **Business understanding:** identify the underlying need and success criteria.
-- **Solution communication:** explain technical options, integrations, dependencies, and trade-offs.
-- **Technical execution:** develop prototypes, APIs, data workflows, and AI-enabled applications.
-- **Delivery discipline:** document assumptions, validate behaviour, and communicate limitations honestly.
+- Software Engineer / Backend Developer
+- Full-Stack Developer
+- Data or AI/ML Engineer
+- Solutions Engineer / Associate Solutions Consultant
+- Technical Consultant / Implementation Engineer
 
-## Current Focus
+I don't see these as separate from one another. Strong technical foundations, understanding requirements and explaining solutions clearly are useful across all of them.
 
-- Preparing for client-facing technical roles in solution engineering and consulting.
-- Strengthening data analytics, applied machine learning, and AI solution design.
-- Improving secure backend architecture, reproducible model evaluation, and deployment reliability.
-- Practising clear technical explanations, product walkthroughs, and solution demonstrations.
-
----
-
-# GitHub Activity
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=PARAG-TIWARI&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub statistics"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PARAG-TIWARI&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Top languages"/>
-
-<br><br>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=PARAG-TIWARI&theme=transparent&hide_border=true" alt="GitHub streak"/>
-
-</div>
-
----
-
-# Let's Connect
-
-I'm interested in opportunities and conversations around **Solutions Engineering, Technical Consulting, AI/ML applications, data-driven products, and software implementation**.
+## Contact
 
 - **Portfolio:** [3D Portfolio](https://3d-portfolio-eight-wine.vercel.app/)
 - **GitHub:** [PARAG-TIWARI](https://github.com/PARAG-TIWARI)
 - **Email:** [paragt2005@gmail.com](mailto:paragt2005@gmail.com)
-
-<div align="center">
-
-*Bridging business context and technology through practical, clearly communicated solutions.*
-
-</div>
