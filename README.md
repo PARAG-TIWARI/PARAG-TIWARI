@@ -8,9 +8,7 @@
 
 <br>
 
-<a href="https://3d-portfolio-eight-wine.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-24292F?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
+<img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-6B7280?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio coming soon"/>
 &nbsp;
 <a href="https://github.com/PARAG-TIWARI">
   <img src="https://img.shields.io/badge/GitHub-PARAG--TIWARI-24292F?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
@@ -30,9 +28,9 @@
 
 I'm a Computer Science and Engineering student at **Rajiv Gandhi Proudyogiki Vishwavidyalaya (RGPV), Bhopal**, graduating in 2027.
 
-I like building things that solve practical problems. My work so far has included full-stack applications, backend APIs, data analysis, machine learning experiments and AI-enabled tools. I enjoy understanding the user problem, working out what a useful solution should look like, and then getting involved in the technical implementation.
+I'm particularly interested in **client-facing technical opportunities** such as Solutions Engineer, Technical Consultant, Associate Solutions Consultant, Customer Engineer and Implementation Engineer roles. I enjoy understanding a customer's or team's problem, asking the right questions, translating requirements into a practical solution, and explaining technical choices clearly.
 
-I'm exploring opportunities across **software engineering, backend and full-stack development, data/AI, solutions engineering and technical consulting**. I'm especially interested in roles that combine technical problem-solving with communication and collaboration.
+I also like staying hands-on: building software, working with APIs, exploring data and machine learning, and developing AI-enabled applications. I'm open to opportunities where technical problem-solving and working closely with people come together.
 
 ## Education & Recognition
 
@@ -40,7 +38,12 @@ I'm exploring opportunities across **software engineering, backend and full-stac
 - **Aspire Institute Seed Fund Awardee (2026)** — selected for a **$500 seed grant** to develop RecycleX, a recycling marketplace focused on connecting households, waste collectors and recycling businesses.
 - **Aspire Leaders Program** — Aspire Institute.
 
-Aspire Institute began as a program founded at Harvard and became an independent nonprofit in 2021. [About Aspire Institute](https://www.aspireleaders.org/about/)
+Aspire Institute began as a program founded at Harvard and became an independent nonprofit in 2021.
+
+<a href="https://www.aspireleaders.org/about/">
+  <img src="https://img.shields.io/badge/Aspire%20Institute-Programme%20%26%20About-2563EB?style=flat-square" alt="Aspire Institute programme and about page"/>
+  <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/box-arrow-up-right.svg" width="13" height="13" alt="External link"/>
+</a>
 
 # Selected Projects
 
@@ -112,8 +115,9 @@ RecycleX is a recycling marketplace I'm building to connect households, waste co
 <a href="https://github.com/PARAG-TIWARI/RoadSight-AI">
   <img src="https://img.shields.io/badge/GitHub-Repository-24292F?style=flat-square&logo=github&logoColor=white" alt="RoadSight AI repository"/>
 </a>
-
-<sub>Repository includes local setup instructions; no hosted demo is listed.</sub>
+<a href="https://roadsight-ai.vercel.app/">
+  <img src="https://img.shields.io/badge/Vercel-Live%20Demo-000000?style=flat-square&logo=vercel&logoColor=white" alt="RoadSight AI live demo"/>
+</a>
 
 </td>
 </tr>
@@ -233,8 +237,6 @@ RecycleX is a recycling marketplace I'm building to connect households, waste co
 <a href="https://github.com/PARAG-TIWARI/ai-powered-course-generator">
   <img src="https://img.shields.io/badge/GitHub-Repository-24292F?style=flat-square&logo=github&logoColor=white" alt="CourseHub AI repository"/>
 </a>
-
-<sub>Development project; server-side security remediation remains separate work.</sub>
 
 </td>
 </tr>
@@ -391,12 +393,8 @@ That could mean developing a feature, improving a data workflow, integrating an 
 
 <div align="center">
 
-<img width="49%" src="https://streak-stats.demolab.com?user=PARAG-TIWARI&theme=transparent&hide_border=true" alt="GitHub streak"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PARAG-TIWARI&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Most used languages"/>
-
-<br><br>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=PARAG-TIWARI&theme=github-compact&hide_border=true" alt="GitHub contribution activity"/>
+<img width="50%" src="https://streak-stats.demolab.com?user=PARAG-TIWARI&theme=transparent&hide_border=true" alt="GitHub streak"/>
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PARAG-TIWARI&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Most used languages"/>
 
 </div>
 
@@ -404,6 +402,6 @@ That could mean developing a feature, improving a data workflow, integrating an 
 
 ## Contact
 
-- **Portfolio:** [3D Portfolio](https://3d-portfolio-eight-wine.vercel.app/)
+- **Portfolio:** Coming soon — link will be added here.
 - **GitHub:** [PARAG-TIWARI](https://github.com/PARAG-TIWARI)
 - **Email:** [paragt2005@gmail.com](mailto:paragt2005@gmail.com)
