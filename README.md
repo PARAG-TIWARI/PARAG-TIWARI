@@ -85,107 +85,79 @@ I'm particularly interested in **client-facing technical opportunities** where I
 
 # Technical Expertise
 
+My toolkit spans data analysis, machine learning, AI application development, backend engineering, and deployment. I list the actual libraries separately from the algorithms and methods I have worked with.
+
 <div align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,react,nextjs,fastapi,flask,docker,mongodb,git,github" alt="Programming languages, development frameworks, databases and tools"/>
+</div>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=python,cpp,js,ts" alt="Python, C++, JavaScript and TypeScript"/>
+### Programming Languages
 
 **Python · C++ · JavaScript · TypeScript · SQL**
 
-### Data Analytics & Visualisation
+### Data Science, Analytics & Visualisation
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square"/>
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+**Libraries and tools:**  
+NumPy · Pandas · Matplotlib · Seaborn · Plotly · Plotly Express · Jupyter Notebook
 
-Exploratory Data Analysis · Data Cleaning · Missing-Value Handling · Data Transformation · Statistical Visualisation
-
-</td>
-<td width="50%" valign="top">
+**Areas and operations:**  
+Exploratory Data Analysis (EDA) · Data cleaning · DataFrame operations · Missing-value handling · Filtering · Sorting · Grouping and aggregation · Merging and concatenation · Interpolation · Summary statistics · Statistical and interactive visualisation
 
 ### Machine Learning
 
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Model_Evaluation-2563EB?style=flat-square"/>
+**Libraries and tools:**  
+Scikit-learn · Imbalanced-learn (imblearn) · Python pickle for model serialisation
 
-**Classical ML models used in projects and notebooks:**
+**Algorithms and models:**
 
-- Linear Regression
-- Logistic Regression
-- Random Forest
-- Gradient Boosting and HistGradientBoosting
-- Support Vector Classifier (SVC)
-- K-Nearest Neighbors
-- Decision Tree
-- Gaussian Naive Bayes
-- AdaBoost
+| Area | Algorithms / models |
+|---|---|
+| Regression | Linear Regression, Logistic Regression |
+| Tree-based models | Decision Tree, Random Forest |
+| Ensemble and boosting | AdaBoost, Gradient Boosting, HistGradientBoosting |
+| Other classification models | Support Vector Classifier (SVC / SVM), K-Nearest Neighbors (KNN), Gaussian Naive Bayes |
 
-</td>
-</tr>
-<tr>
-<td valign="top">
+**ML workflow and evaluation:**  
+Train-test split · Classification and regression workflows · Label encoding · Standardisation (StandardScaler) · Normalisation (MinMaxScaler) · Imbalanced-data handling with SMOTE · Accuracy · Precision · Recall · F1-score · Confusion matrix · R² · Mean Absolute Error (MAE) · Mean Squared Error (MSE)
 
 ### Deep Learning & Computer Vision
 
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
-<img src="https://img.shields.io/badge/YOLOv8-111827?style=flat-square"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/ONNX_Runtime-005CED?style=flat-square"/>
+**Libraries and frameworks:**  
+TensorFlow · Keras · OpenCV · Pillow (PIL) · Ultralytics · ONNX Runtime
 
-CNN Image Classification · YOLOv8 Segmentation · Image Processing · Inference Pipelines
+**Areas:**  
+Convolutional Neural Networks (CNNs) · Image preprocessing · Spectrogram-image classification · YOLOv8 segmentation · Model inference and deployment workflows
 
-</td>
-<td valign="top">
+### Natural Language Processing & Generative AI
 
-### NLP & Generative AI
+**Libraries, frameworks and platforms:**  
+NLTK · LangChain · LangGraph · Google Gemini · OpenRouter
 
-<img src="https://img.shields.io/badge/NLTK-154F3C?style=flat-square"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square"/>
-<img src="https://img.shields.io/badge/LangGraph-6D28D9?style=flat-square"/>
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenRouter-111827?style=flat-square"/>
+**NLP concepts and workflows:**  
+Text preprocessing · Tokenisation · Stopword removal · Porter stemming · Text vectorisation · LLM-powered application workflows
 
-Text Preprocessing · Tokenisation · Stopword Removal · Stemming · Vectorisation · AI Workflows
+### Backend, Frontend & Application Development
 
-</td>
-</tr>
-<tr>
-<td valign="top">
+**Backend and app frameworks:**  
+FastAPI · Flask · Streamlit
 
-### Backend & Application Development
+**Frontend frameworks and tools:**  
+React · Next.js · Vite · Tailwind CSS
 
-<img src="https://skillicons.dev/icons?i=fastapi,flask,react,nextjs,vite,tailwind" alt="FastAPI, Flask, React, Next.js, Vite and Tailwind CSS"/>
+**Application development:**  
+REST API design · Frontend/backend integration · Interactive dashboards · AI-enabled application workflows
 
-REST APIs · FastAPI · Flask · React · Next.js · Streamlit
+### MLOps, Testing & Developer Tools
 
-</td>
-<td valign="top">
+**Tools and platforms:**  
+Docker · MLflow · DVC · Git · GitHub · GitHub Actions · Pytest
 
-### MLOps, Tools & Data Storage
+**Practices:**  
+Model and experiment tracking · Data/model versioning · Containerisation · CI/CD workflows · Automated testing · Reproducible development
 
-<img src="https://skillicons.dev/icons?i=docker,git,github,mongodb,sqlite" alt="Docker, Git, GitHub, MongoDB and SQLite"/>
-<br>
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square"/>
-<img src="https://img.shields.io/badge/DVC-945DD6?style=flat-square"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square"/>
+### Databases
 
-Docker · MLflow · DVC · CI/CD · Testing · GitHub Actions
-
-</td>
-</tr>
-</table>
-
-</div>
+SQL · MongoDB Atlas · SQLite
 
 ---
 
