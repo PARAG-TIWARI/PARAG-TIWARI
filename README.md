@@ -1,10 +1,30 @@
+<div align="center">
+
 # Parag Tiwari
 
-**Computer Science & Engineering | Software Development | Data & AI**
+### Computer Science & Engineering | Software Development | Data & AI
 
-[Portfolio](https://3d-portfolio-eight-wine.vercel.app/) · [GitHub](https://github.com/PARAG-TIWARI) · [Email](mailto:paragt2005@gmail.com)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3500&pause=1000&color=2563EB&center=true&vCenter=true&width=900&lines=Building+Practical+Software+Solutions;Exploring+Data%2C+Machine+Learning+%26+AI;Turning+Ideas+into+Working+Products;Learning+by+Building+and+Collaborating" alt="Profile introduction"/>
+
+<br>
+
+<a href="https://3d-portfolio-eight-wine.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-24292F?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+&nbsp;
+<a href="https://github.com/PARAG-TIWARI">
+  <img src="https://img.shields.io/badge/GitHub-PARAG--TIWARI-24292F?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+&nbsp;
+<a href="mailto:paragt2005@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-24292F?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+</div>
 
 ---
+
+<img align="right" src="https://komarev.com/ghpvc/?username=PARAG-TIWARI&label=Profile%20Views&color=2563EB&style=flat-square" alt="Profile views"/>
 
 ## About
 
@@ -65,56 +85,142 @@ A collection of notebooks and exercises covering NumPy, Pandas, data cleaning, e
 
 [Data Science repository](https://github.com/PARAG-TIWARI/Data-Science)
 
-## Skills & Tools
+# Technical Expertise
 
-These are the libraries, models and tools I've worked with through projects, coursework and practical notebooks.
+<div align="center">
 
-### Programming Languages
-- Python
-- C++
-- JavaScript and TypeScript
-- SQL
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### Data Analysis & Visualisation
-- **Data libraries:** NumPy, Pandas
-- **Visualisation:** Matplotlib, Seaborn, Plotly and Plotly Express
-- **Working environment:** Jupyter Notebook
-- **Analysis:** exploratory data analysis, data cleaning, missing-value handling, filtering, sorting, grouping, aggregation, merging, concatenation and interpolation
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,js,ts" alt="Python, C++, JavaScript and TypeScript"/>
+</p>
+
+Python · C++ · JavaScript · TypeScript · SQL
+
+</td>
+<td width="50%" valign="top">
+
+### Data Science & Visualisation
+
+<p>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" alt="Matplotlib"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square" alt="Seaborn"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/>
+</p>
+
+EDA · Data cleaning · Data transformation · Statistical and interactive visualisation
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### Machine Learning
-- **Libraries:** Scikit-learn, Imbalanced-learn
-- **Linear models:** Linear Regression and Logistic Regression
-- **Tree and ensemble models:** Decision Tree, Random Forest, AdaBoost, Gradient Boosting and HistGradientBoosting
-- **Other classifiers:** Support Vector Classifier (SVC/SVM), K-Nearest Neighbors and Gaussian Naive Bayes
-- **Preprocessing:** train-test split, Label Encoding, StandardScaler, MinMaxScaler and SMOTE
-- **Evaluation:** accuracy, precision, recall, F1-score, confusion matrix, R², MAE and MSE
+
+<p>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+<img src="https://img.shields.io/badge/Imbalanced--learn-2563EB?style=flat-square" alt="Imbalanced-learn"/>
+</p>
+
+**Algorithms I've studied and worked with**
+
+- Linear Regression and Logistic Regression
+- Decision Tree and Random Forest
+- Support Vector Classifier (SVC / SVM)
+- K-Nearest Neighbors
+- Gaussian Naive Bayes
+- AdaBoost and Gradient Boosting
+- HistGradientBoosting
+
+**Methods:** train-test split, Label Encoding, StandardScaler, MinMaxScaler and SMOTE.
+
+**Evaluation:** accuracy, precision, recall, F1-score, confusion matrix, R², MAE and MSE.
+
+</td>
+<td width="50%" valign="top">
 
 ### Deep Learning & Computer Vision
-- **Frameworks:** TensorFlow and Keras
-- **Computer vision:** OpenCV, Pillow (PIL), Ultralytics YOLOv8 and ONNX Runtime
-- **Work:** CNN-based image classification, spectrogram-image classification, image preprocessing and object segmentation
 
-### Natural Language Processing & Generative AI
-- **Tools:** NLTK, LangChain, LangGraph, Google Gemini and OpenRouter
-- **Concepts:** tokenisation, stopword removal, Porter stemming, text cleaning and text preprocessing
+<p>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
+<img src="https://img.shields.io/badge/Pillow-4B5563?style=flat-square" alt="Pillow"/>
+<img src="https://img.shields.io/badge/YOLOv8-111827?style=flat-square" alt="YOLOv8"/>
+<img src="https://img.shields.io/badge/ONNX_Runtime-005CED?style=flat-square" alt="ONNX Runtime"/>
+</p>
 
-### Web & Application Development
-- **Backend:** FastAPI and Flask
-- **Frontend:** React, Next.js, Vite and Tailwind CSS
-- **Application development:** Streamlit, REST APIs and frontend/backend integration
+CNNs · Image preprocessing · Spectrogram-image classification · YOLOv8 segmentation
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### NLP & Generative AI
+
+<p>
+<img src="https://img.shields.io/badge/NLTK-154F3C?style=flat-square" alt="NLTK"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" alt="LangChain"/>
+<img src="https://img.shields.io/badge/LangGraph-6D28D9?style=flat-square" alt="LangGraph"/>
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini"/>
+<img src="https://img.shields.io/badge/OpenRouter-111827?style=flat-square" alt="OpenRouter"/>
+</p>
+
+Text preprocessing · Tokenisation · Stopword removal · Porter stemming
+
+</td>
+<td width="50%" valign="top">
+
+### Software Engineering
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,flask,vite,tailwind" alt="React, Next.js, FastAPI, Flask, Vite and Tailwind"/>
+</p>
+
+REST APIs · Streamlit applications · Frontend/backend integration
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### MLOps & Developer Tools
-- Docker
-- MLflow
-- DVC
-- Git and GitHub
-- GitHub Actions
-- Pytest
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github" alt="Docker, Git and GitHub"/>
+<br>
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square" alt="MLflow"/>
+<img src="https://img.shields.io/badge/DVC-945DD6?style=flat-square" alt="DVC"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+<img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square" alt="Pytest"/>
+</p>
+
+Experiment tracking · Data/model versioning · Docker · CI/CD · Automated testing
+
+</td>
+<td width="50%" valign="top">
 
 ### Databases
-- MongoDB Atlas
-- SQLite
-- SQL
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,sqlite,mysql" alt="MongoDB, SQLite and MySQL"/>
+</p>
+
+MongoDB Atlas · SQLite · SQL
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -123,6 +229,21 @@ These are the libraries, models and tools I've worked with through projects, cou
 I'm drawn to work that combines hands-on engineering with understanding the problem behind a requirement. I enjoy building software and AI/data-driven solutions, explaining technical choices clearly, and working with people to move an idea towards implementation.
 
 That could mean developing a feature, improving a data workflow, integrating an API, or helping a user or team understand which technical approach best fits their needs.
+
+## GitHub Activity
+
+<div align="center">
+
+<img width="49%" src="https://streak-stats.demolab.com?user=PARAG-TIWARI&theme=transparent&hide_border=true" alt="GitHub streak"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PARAG-TIWARI&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Most used languages"/>
+
+<br><br>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=PARAG-TIWARI&theme=github-compact&hide_border=true" alt="GitHub contribution activity"/>
+
+</div>
+
+---
 
 ## Contact
 
