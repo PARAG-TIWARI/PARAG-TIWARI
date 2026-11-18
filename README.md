@@ -67,37 +67,56 @@ A collection of notebooks and exercises covering NumPy, Pandas, data cleaning, e
 
 ## Skills & Tools
 
-I keep this list to tools, methods and models I have used in coursework, notebooks or projects.
+These are the libraries, models and tools I've worked with through projects, coursework and practical notebooks.
 
-**Languages**
-- Python, C++, JavaScript, TypeScript, SQL
+### Programming Languages
+- Python
+- C++
+- JavaScript and TypeScript
+- SQL
 
-**Data analysis and visualisation**
-- NumPy, Pandas, Matplotlib, Seaborn, Plotly, Plotly Express, Jupyter Notebook
-- Data cleaning, missing-value handling, filtering, sorting, grouping, aggregation, merging, concatenation and exploratory data analysis
+### Data Analysis & Visualisation
+- **Data libraries:** NumPy, Pandas
+- **Visualisation:** Matplotlib, Seaborn, Plotly and Plotly Express
+- **Working environment:** Jupyter Notebook
+- **Analysis:** exploratory data analysis, data cleaning, missing-value handling, filtering, sorting, grouping, aggregation, merging, concatenation and interpolation
 
-**Machine learning**
-- Scikit-learn, Imbalanced-learn
-- Linear Regression, Logistic Regression, Decision Tree, Random Forest, AdaBoost, Gradient Boosting, HistGradientBoosting, SVC/SVM, K-Nearest Neighbors and Gaussian Naive Bayes
-- Train-test split, Label Encoding, StandardScaler, MinMaxScaler and SMOTE
-- Model evaluation: accuracy, precision, recall, F1-score, confusion matrix, R², MAE and MSE
+### Machine Learning
+- **Libraries:** Scikit-learn, Imbalanced-learn
+- **Linear models:** Linear Regression and Logistic Regression
+- **Tree and ensemble models:** Decision Tree, Random Forest, AdaBoost, Gradient Boosting and HistGradientBoosting
+- **Other classifiers:** Support Vector Classifier (SVC/SVM), K-Nearest Neighbors and Gaussian Naive Bayes
+- **Preprocessing:** train-test split, Label Encoding, StandardScaler, MinMaxScaler and SMOTE
+- **Evaluation:** accuracy, precision, recall, F1-score, confusion matrix, R², MAE and MSE
 
-**Deep learning and computer vision**
-- TensorFlow, Keras, CNNs, Ultralytics YOLOv8, OpenCV, Pillow and ONNX Runtime
+### Deep Learning & Computer Vision
+- **Frameworks:** TensorFlow and Keras
+- **Computer vision:** OpenCV, Pillow (PIL), Ultralytics YOLOv8 and ONNX Runtime
+- **Work:** CNN-based image classification, spectrogram-image classification, image preprocessing and object segmentation
 
-**NLP and Generative AI**
-- NLTK, LangChain, LangGraph, Google Gemini and OpenRouter
-- Tokenisation, stopword removal, stemming and text preprocessing
+### Natural Language Processing & Generative AI
+- **Tools:** NLTK, LangChain, LangGraph, Google Gemini and OpenRouter
+- **Concepts:** tokenisation, stopword removal, Porter stemming, text cleaning and text preprocessing
 
-**Web and application development**
-- FastAPI, Flask, Streamlit, React, Next.js, Vite and Tailwind CSS
-- REST APIs and frontend/backend integration
+### Web & Application Development
+- **Backend:** FastAPI and Flask
+- **Frontend:** React, Next.js, Vite and Tailwind CSS
+- **Application development:** Streamlit, REST APIs and frontend/backend integration
 
-**MLOps and developer tools**
-- Docker, MLflow, DVC, Git, GitHub Actions and Pytest
+### MLOps & Developer Tools
+- Docker
+- MLflow
+- DVC
+- Git and GitHub
+- GitHub Actions
+- Pytest
 
-**Databases**
-- MongoDB Atlas, SQLite and SQL
+### Databases
+- MongoDB Atlas
+- SQLite
+- SQL
+
+---
 
 ## What I'm Interested In
 
