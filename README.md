@@ -120,15 +120,9 @@ These are the libraries, models and tools I've worked with through projects, cou
 
 ## What I'm Interested In
 
-I'm open to roles where I can keep building technically while learning how technology is applied in real organisations. Areas I'm exploring include:
+I'm drawn to work that combines hands-on engineering with understanding the problem behind a requirement. I enjoy building software and AI/data-driven solutions, explaining technical choices clearly, and working with people to move an idea towards implementation.
 
-- Software Engineer / Backend Developer
-- Full-Stack Developer
-- Data or AI/ML Engineer
-- Solutions Engineer / Associate Solutions Consultant
-- Technical Consultant / Implementation Engineer
-
-I don't see these as separate from one another. Strong technical foundations, understanding requirements and explaining solutions clearly are useful across all of them.
+That could mean developing a feature, improving a data workflow, integrating an API, or helping a user or team understand which technical approach best fits their needs.
 
 ## Contact
 
